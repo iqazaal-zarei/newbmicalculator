@@ -1,0 +1,8 @@
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\bin\Debug\bmiCulc.exe.config
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\bin\Debug\bmiCulc.exe
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\bin\Debug\bmiCulc.pdb
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\obj\Debug\bmiCulc.csproj.AssemblyReference.cache
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\obj\Debug\bmiCulc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\obj\Debug\bmiCulc.csproj.CoreCompileInputs.cache
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\obj\Debug\bmiCulc.exe
+C:\Users\Valiasr\source\repos\bmiCulc\bmiCulc\obj\Debug\bmiCulc.pdb
